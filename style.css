@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+main {
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    border: 0.2vw solid rgba(3, 252, 49, 0.671);
+}
+
+header {
+    text-align: center;
+    box-shadow: 1vw 1vw 1.5vw rgba(3, 252, 48, 1.0) inset;
+    width: 25%;
+    margin: auto;
+    border-radius: 100%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+h1 {
+    font-size: 3vw;
+}
+
+.rechts {
+    text-align: right;
+}
+
+.links {
+    text-align: left;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+
+/**
+<p>Ich fahre gerne mit dem Moped oder Fahrrad durch die Gegend, <br> lese gerne dicke und lange Bücher und Fotografiere gerne <br> mit meiner Kamera. Ich programmiere gerne kleine Spaß Programme,<br> oder bearbeite Fotos. Meine Stärken liegen
+                in der Fotografie, ich <br> bin aber auch gut in Handwerklichen Dingen, wie Mopeds reparieren, <br> oder einfache Sachen aus Holz bauen/sägen. Ich selber bin ein hilfsbereiter <br> und immer gut aufgelegter Mensch. Ich helfe gerne Menschen,
+                und versuche, <br> immer höflich und nett zu sein. Ich höre gerne Musik, oder bin oft draußen in der Natur.<br>Manchmal mache ich auch gefährliche oder leichtisnnige Sachen. Am Samstag, dem 18.1. <br>bin ich mit meinem Bruder in eine Höhle
+                gekrochen, welche nur 50 cm hoch ist, <br>und bei der der Boden von Wasser bedeckt ist. <br>Ich bin seit März mit meiner Freundinn Angely zusammnen, <br> und man sieht sie des öfteren auf Bilder, dich ich von ihr gemacht habe. </p>
+            <a href="https://www.htl-leonding.at/">Ich besuche zur Zeit die HTL in Leonding.</a>
+*/
